@@ -11,6 +11,4 @@ class Solution {
     }
 }
 
-public class Problem12 {
-    
-}
+

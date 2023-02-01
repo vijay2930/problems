@@ -11,7 +11,6 @@ class Solution {
                 y++;
         }
         if(y==1){
-
             if(arr[arr.length-1]<=arr[0])
                 x++;
             else
@@ -22,7 +21,4 @@ class Solution {
             return true;
         return false;
     }
-}
-public class Problem1752 {
-    
 }

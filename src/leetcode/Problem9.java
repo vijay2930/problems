@@ -12,6 +12,3 @@ class Solution {
         return x==rev?true:false;
     }
 }
-public class Problem9 {
-    
-}

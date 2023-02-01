@@ -17,6 +17,3 @@ class Solution {
         return start;
     }
 }
-public class Problem35 {
-    
-}

@@ -10,6 +10,3 @@ class Solution {
         return (Integer.MAX_VALUE<rev||rev<Integer.MIN_VALUE) ? 0 : (int)rev;
     }
 }
-public class Problem7 {
-    
-}

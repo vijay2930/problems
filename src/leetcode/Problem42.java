@@ -43,6 +43,3 @@ class Solution {
         return water;
     }
 }
-public class Problem42 {
-    
-}

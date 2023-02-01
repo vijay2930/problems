@@ -24,6 +24,3 @@ class Solution {
         return res;
     }
 }
-public class Problem13 {
-    
-}

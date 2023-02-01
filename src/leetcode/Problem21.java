@@ -46,6 +46,3 @@ class Solution {
         return list;
     }
 }
-public class Problem21 {
-    
-}

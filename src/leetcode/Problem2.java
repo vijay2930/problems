@@ -53,21 +53,4 @@ class Solution {
         return head;
     }
 }
-public class Problem2 {
-    public static void main(String[] args) {
-        Solution s=new Solution();
-        int a[]={1,2,3};
-        int b[]={4,5,6};
-        ListNode l1=new ListNode();
-        ListNode l2=new ListNode();
-        for(int i=0;i<3;i++){
-            l1.insert(a[i]);
-            l2.insert(b[i]);
-        }
-        ListNode res=s.addTwoNumbers(l1,l2);
-        while(res!=null){
-            System.out.println(l1.val);
-            l1=l1.next;
-        }
-    }
-}
+

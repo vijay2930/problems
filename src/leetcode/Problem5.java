@@ -23,6 +23,3 @@ class Solution {
         return R - L - 1;
     }
 }
-public class Problem5 {
-    
-}

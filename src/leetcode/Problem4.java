@@ -28,6 +28,3 @@ class Solution {
         return median;
     }
 }
-public class Problem4 {
-    
-}

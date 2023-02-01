@@ -33,6 +33,3 @@ class Solution {
     }
     }
 }
-public class Problem8 {
-    
-}
